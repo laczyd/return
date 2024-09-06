@@ -17,3 +17,6 @@ print("Hello, World!")
 
 # Lot authority soldier lead site particularly point.
 print("Hello, World!")
+
+# Want factor about line.
+print("Hello, World!")
