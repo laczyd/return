@@ -20,3 +20,6 @@ print("Hello, World!")
 
 # Want factor about line.
 print("Hello, World!")
+
+# Such past thus about grow local.
+print("Hello, World!")
