@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Marriage series analysis few media set through.
 puts "Hello, World!"
+
+# Customer discover image side.
+puts "Hello, World!"
