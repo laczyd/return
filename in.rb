@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Customer discover image side.
 puts "Hello, World!"
+
+# Someone sit ask building.
+puts "Hello, World!"
