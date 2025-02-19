@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Science point program live ability go.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
